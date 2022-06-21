@@ -1,0 +1,69 @@
+Q.1 Which of the following function get this pointer
+A. Global function
+B. Static member function
+C. Constant member function
+D. Friend function
+Correct Answer : C
+
+Q.2 Select the correct statement about constructor
+A. We can call constructor on pointer/reference and object explicitly.
+B. We can declare constructor static, constant, volatile and virtual.
+C. We can declare constructor private/protected/public.
+D. Default return type of constructor is integer.
+Correct Answer : C
+
+Q.3 Which one of the following function compiler do not generate?
+A. Parameterless constructor.
+B. Parameterized constructor
+C. Copy constructor
+D. Assignment operator function.
+Correct Answer : B
+
+Q.4 Choose Correct statement about function overloading
+A. For function overloading function must be exist in different scope.
+B. We can not overload constructor but we can overload destructor.
+C. We can overload static and constant member functions.
+D. Function overloading represents runtime polymorphism.
+Correct Answer : C
+
+Q.5 Inside constant member function, if we want to modify state of non constant data member then we should use _______ keyword?
+A. static
+B. immutable
+C. mutable
+D. mutator
+Correct Answer : C
+
+Q.6. Select correct statement about reference
+A. We can store null value inside reference.
+B. We can create reference to reference.
+C. We can create array of references.
+D. We can create reference to array.
+Correct Answer : D
+
+Q.7. If we want to generate new exception then we shuld use _______ keyword?
+A. try
+B. catch
+C. throw
+D. throws
+Correct Answer : C
+
+Q.8 For thrown exception, if we do not define catch block then______
+A. Compiler generates error.
+B. C++ runtime invoke unexpected function.
+C. C++ runtime invoke terminate function.
+D. C++ runtime invoke abort function.
+Correct Answer : C
+
+Q.9 Choose correct statement.
+A. Macro is request to the preprocessor whereas inline is command to the compiler.
+B. In case of separation, we can specify default arguments in definition part only.
+C. We can not initialize array using member intializer list.
+D. Return type is considered in function overloading.
+Correct Answer : C
+
+Q.10 In Which one of the following condition, copy constructor do not call?
+A. If we pass object do the function by value.
+B. If we return object from function by value.
+C. If we initialize object from same object.
+D. If we assign object of same class to the another.
+Correct Answer : D

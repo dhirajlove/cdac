@@ -1,0 +1,69 @@
+Q.1 Which one of the following is correct syntax of copy constructor?
+A. const ClassName( ClassName &other )
+B. ClassName const ( ClassName &other )
+C. ClassName ( const ClassName &other )
+D. ClassName ( ClassName & const other )
+Correct Answer : C
+
+Q.2 Which one of the following operator we can not overload.
+A. =
+B. []
+C. ()
+D. ? :
+Correct Answer : D
+
+Q.3 Which one of the following is not a conversion function?
+A. Single parameter constructor.
+B. Copy constructor.
+C. Assignment operator function.
+D. Type converion operator function.
+Correct Answer : B
+
+Q.4 Which one of the following do not represent compile time polymorphism?
+A. Function Overloading
+B. Operator Overloading
+C. Function Overriding
+D. Template
+Correct Answer : C
+
+Q.5 If new operator fail to allocate memory then______.
+A. It return NULL.
+B. It throws bad_cast exception.
+C. It throws bad_typeid exception.
+D. It throws bad_alloc exception.
+Correct Answer : D
+
+Q.6. Select correct syntax of template.
+A. template class<T>
+B. <template class T>
+C. <template> class T
+D. template< class T>
+Correct Answer : D
+
+Q.7 Which one of the following function can be static.
+A. constant member function.
+B. virtual member function.
+C. volatile member function.
+D. global function.
+Correct Answer : D
+
+Q.8 Select the incorrect statement about static.
+A. Size of object do not depend on size of static data member.
+B. We can call static member function on object.
+C. Static member function get this pointer.
+D. Using instance, we can access non static members inside static member function.
+Correct Answer : C
+
+Q.9 If we want to access private members in different scope then we should use___
+A. scope resolution operator.
+B. friend function / class
+C. extern keyword
+D. None of the above.
+Correct Answer : B
+
+Q.10 Which one of the following keyword is allowed to use with destructor
+A. static
+B. const
+C. volatile
+D. virtual.
+Correct Answer : D

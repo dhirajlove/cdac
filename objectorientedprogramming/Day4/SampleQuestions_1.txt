@@ -1,0 +1,69 @@
+Q.1 C++ is developed by__________.
+A. Alan Kay.
+B. Bjarne Stroustrup.
+C. James Gosling.
+D. Brian Karnighan.
+Correct Answer : B
+
+Q.2 C++ is invented in year _________.
+A. 1972
+B. 1979
+C. 1983
+D. 1998
+Correct Answer : B
+
+Q.3 Which one of the following data type is introduced in C++.
+A. void
+B. char
+C. wchar_t
+D. wchar
+Correct Answer : C
+
+Q.4 In C++, by default structure members are ____ and class members are _________.
+A. private, private
+B. private, public
+C. public, public
+D. public, private
+Correct Answer : D
+
+Q.5 ________ is standard namespace in C++.
+A. global namespace
+B. std namespace
+C. default namespace
+D. system namespace
+Correct Answer : B
+
+Q.6 Select the wrong statement about namespace.
+A. We can define namespace as File scope.
+B. We can define namespace at namespace scope.
+C. we can define main function inside namespace.
+D. we can not define namespace inside function.
+Correct Answer : C
+
+Q.7 _______ operator is designed to use with cin.
+A. <
+B. <<
+C. >>
+D. >
+Correct Answer : C
+
+Q.8 Which one of the header file is required to use manipulator.
+A. iostream
+B. manip
+C. iomanip
+D. limits
+Correct Answer : C
+
+Q.9 Size of object of empty class is________.
+A. 0 byte
+B. 1 byte
+C. 2 bytes
+D. 4 bytes.
+Correct Answer : B
+
+Q.10 Select the correct statement about class.
+A. State, bahavior and identity are charactericts of class.
+B. Class represents structure and behavior of the object.
+C. Class get space inside memory.
+D. By default, access specifier of the class is private.
+Correct Answer : B

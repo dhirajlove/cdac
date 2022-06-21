@@ -1,0 +1,111 @@
+
+
+Which Feature of OOP illustrated the code reusability?
+a) Polymorphism
+b) Abstraction
+c) Encapsulation
+d) Inheritance
+
+Answer : D
+
+
+Does OOP provide better security than POP?
+a) Always true for any programming language
+b) May not be true with respect to all programming languages
+c) It depends on type of program
+d) It’s vice-versa is true
+
+Answer :A 
+
+
+ Which feature can be implemented using encapsulation?
+a) Inheritance
+b) Abstraction
+c) Polymorphism
+d) Overloading
+
+Answer : B
+
+
+Encapsulation and abstraction differ as ____________
+a) Binding and Hiding respectively
+b) Hiding and Binding respectively
+c) Can be used any way
+d) Hiding and hiding respectively
+
+Answer :A 
+
+
+
+Where can the default parameter be placed by the user?
+a) leftmost
+b) rightmost
+c) both leftmost & rightmost
+d) topmost
+
+Answer: B
+
+How many types of constructors are there in C++?
+a) 1
+b) 2
+c) 3
+d) 4
+
+Answer :C
+
+
+
+What is syntax of defining a destructor of class A?
+a) A(){}
+b) ~A(){}
+c) A::A(){}  
+d) ~A(){};
+
+Answer :B
+
+By default how the value are passed in c++?
+a) call by value
+b) call by reference
+c) call by pointer
+d) call by object
+
+Answer : A
+
+
+
+Which of the following implements the module in the program?
+a) macro
+b) header files
+c) macro & header files
+d) interfaces
+
+Answer : B
+
+How are the constants declared?
+a) const keyword
+b) #define preprocessor
+c) both const keyword and #define preprocessor
+d) $define
+
+Answer : C
+
+What are the constant member functions?
+a) Functions which doesn’t change value of calling object
+b) Functions which doesn’t change value of any object inside definition
+c) Functions which doesn’t allow modification of any object of class
+d) Functions which doesn’t allow modification of argument objects
+
+Answer : A
+
+Can a constructor function be constant?
+a) Yes, always
+b) Yes, only if permissions are given
+c) No, because objects are not involved
+d) No, never
+
+Answer : D
+
+
+
+
+
